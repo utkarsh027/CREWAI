@@ -25,9 +25,7 @@ pip install -r requirements.txt
 3. **Set up the .env file**:
    OPENAI_API_KEY=your_openai_api_key
    
-4. **Place your PDF documents in the ./us_census directory (or any directory you specify in the code)**:
-
-5. **Run the crewai application**:
+4. **Run the crewai application**:
    ```bash
    python crew.ai
    ```
